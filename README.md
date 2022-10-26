@@ -6,4 +6,4 @@
 ###### Please Click The Image To Watch A Demo On Youtube
 
 ## Description 
-This animation was taken from a royalty-free Unity game. 
+This animation was taken from a royalty-free Unity game. The audio was created by me in Logic Pro X using sound iles from SoundQ.
