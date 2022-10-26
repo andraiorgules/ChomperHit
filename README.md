@@ -4,3 +4,6 @@
 
 [![assets](https://github.com/andraiorgules/ChomperHit/blob/main/assets/ChomperHitThumbnail.png)](https://youtu.be/PnSAo1Xrsbo)
 ###### Please Click The Image To Watch A Demo On Youtube
+
+## Description 
+This animation was taken from a royalty-free Unity game. 
