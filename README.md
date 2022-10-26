@@ -1,2 +1,3 @@
 # Chomper Hit
-Sound and Music for Interactive Visual Media : In-Class Assignment
+## GAME 235 - Sound and Music for Interactive Visual Media  
+### In-Class Assignment
